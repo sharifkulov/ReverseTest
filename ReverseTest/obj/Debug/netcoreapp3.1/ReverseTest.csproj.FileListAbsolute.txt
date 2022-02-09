@@ -1,0 +1,14 @@
+F:\Projects\ReverseTest\ReverseTest\bin\Debug\netcoreapp3.1\ReverseTest.exe
+F:\Projects\ReverseTest\ReverseTest\bin\Debug\netcoreapp3.1\ReverseTest.deps.json
+F:\Projects\ReverseTest\ReverseTest\bin\Debug\netcoreapp3.1\ReverseTest.runtimeconfig.json
+F:\Projects\ReverseTest\ReverseTest\bin\Debug\netcoreapp3.1\ReverseTest.runtimeconfig.dev.json
+F:\Projects\ReverseTest\ReverseTest\bin\Debug\netcoreapp3.1\ReverseTest.dll
+F:\Projects\ReverseTest\ReverseTest\bin\Debug\netcoreapp3.1\ReverseTest.pdb
+F:\Projects\ReverseTest\ReverseTest\obj\Debug\netcoreapp3.1\ReverseTest.csproj.AssemblyReference.cache
+F:\Projects\ReverseTest\ReverseTest\obj\Debug\netcoreapp3.1\ReverseTest.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\ReverseTest\ReverseTest\obj\Debug\netcoreapp3.1\ReverseTest.AssemblyInfoInputs.cache
+F:\Projects\ReverseTest\ReverseTest\obj\Debug\netcoreapp3.1\ReverseTest.AssemblyInfo.cs
+F:\Projects\ReverseTest\ReverseTest\obj\Debug\netcoreapp3.1\ReverseTest.csproj.CoreCompileInputs.cache
+F:\Projects\ReverseTest\ReverseTest\obj\Debug\netcoreapp3.1\ReverseTest.dll
+F:\Projects\ReverseTest\ReverseTest\obj\Debug\netcoreapp3.1\ReverseTest.pdb
+F:\Projects\ReverseTest\ReverseTest\obj\Debug\netcoreapp3.1\ReverseTest.genruntimeconfig.cache
